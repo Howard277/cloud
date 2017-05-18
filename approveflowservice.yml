@@ -1,15 +1,2 @@
 users: zhangsan,lisi,wangwu
 
-#spring的数据源配置
-spring.datasource:
-  jdbcUrl: jdbc:mysql://localhost:3306/test
-  username: root
-  password: wuketao277
-  driverClassName: com.mysql.jdbc.Driver
-
-spring.jpa:
-  database: mysql
-  show-sql: true
-  hibernate.ddl-auto: update
-  hibernate.naming-strategy: org.hibernate.cfg.ImprovedNamingStrategy
-  properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
