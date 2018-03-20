@@ -1,3 +1,5 @@
 admin:
   name: developer
   password: developer00102
+  
+server.port: 8001
