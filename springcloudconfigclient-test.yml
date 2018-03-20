@@ -1,3 +1,4 @@
 admin:
   name: test_leader
   password: test_leader
+server.port: 8000
